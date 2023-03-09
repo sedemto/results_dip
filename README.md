@@ -1,6 +1,6 @@
 
 # Image demosaicing using Deep Image Prior 
-This repositary contains different types of result images of a deep image prior network
+This repositary contains different types of result images of a deep image prior network.
 (all images are from the Kodak data set)
 
 The result images contain:
