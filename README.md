@@ -1,6 +1,7 @@
-# results_dip
-# Demosaicing using a generative neural network 
-This repositary contains result images of 10 runs of a deep image prior network on a Kodak data set
+
+# Image demosaicing using Deep Image Prior 
+This repositary contains different types of result images of a deep image prior network
+(all images are from the Kodak data set)
 
 The result images contain:
 - images after 2000 epochs
