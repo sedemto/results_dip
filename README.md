@@ -12,6 +12,7 @@ The result images for other methods:
 - images produced with bilinear interpolation (bilinear_imgs)
 - images produced with Malvar's demosaicing method (malvar_imgs)
 - images produced with Menon's demosaicing method (menon_imgs)
+- images produced using demosaic function in Matlab (matlab_imgs)
 
 The Kodak data set images:
 - original images from the Kodak data set (gound_truth_imgs)
